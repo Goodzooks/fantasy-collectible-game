@@ -2,7 +2,6 @@
 
 A fantasy-world collectible game with characters and items.
 
-Design doc: `docs/design-doc.docx`
 
 ## How to play (v1)
 
